@@ -1,0 +1,66 @@
+.body {
+  background-color: #f8f9fa;
+  color: #212529;
+  font-family: Helvetica Neue;
+}
+
+.travel-icons{
+  height: 2rem;
+}
+
+.travel-family{
+  width: 600px;
+}
+
+.btn-get-a-quote {
+  background-color: #923b3a;
+  border: none;
+  color: #ffffff;
+}
+
+.btn-get-a-quote:hover {
+  background-color: #aa5856;
+  border: none;
+}
+
+.co-travel-quote {
+  color: #923b3a;
+}
+
+.co-footer {
+  border-top: 1px solid #dfdfdf;
+}
+
+.table {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form-row {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar {
+  background-color: #ffffff;
+}
+
+.administration {
+  color: #923b3a;
+  font-weight: 600;
+}
+
+h2 {
+  color: #923b3a;
+}
+
+.btn-submit {
+  background-color: #923b3a;
+  border: none;
+}
+
+.btn-submit:hover {
+  background-color: #aa5856;
+}
